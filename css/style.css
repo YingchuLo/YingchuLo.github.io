@@ -130,7 +130,7 @@ h1 {
     width:100%;
     max-width:1000px; 
     float:right; 
-    height:auto; 
+    height:100%; 
     padding-top:130px;
 }
 
