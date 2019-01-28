@@ -127,11 +127,11 @@ h1 {
 /* resume page */
 
 .resume { 
-    width:80%;
-    max-width:800px; 
+    width:100%;
+    max-width:1000px; 
     float:right; 
-    height:200%; 
-    padding-top:80px;
+    height:auto; 
+    padding-top:130px;
 }
 
 /* ------------------------------------------------------------------------------------- */
