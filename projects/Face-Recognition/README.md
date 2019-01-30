@@ -1,4 +1,5 @@
-## Developed a face recognition application using python, OpenCV, tensorflow and Keras
+## Face Recognition Application 
+### Implemented in python, OpenCV, tensorflow, Keras
 - Using transfer learning, achieved extremely high test accuracy for a small training
 data set with no external preprocessing
 - Successfully developed a method to detect and recognize faces for arbitrary pictures
