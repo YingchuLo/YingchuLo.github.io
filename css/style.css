@@ -55,7 +55,17 @@ h1 {
     border:0;
     padding:0;
     display:inline;
-	font-size:260%;
+    font-size:150%;
+    text-align:center;
+}
+
+h2 {
+    margin:0;
+    border:0;
+    padding:0;
+    display:inline;
+    font-size:70%;
+    text-align:center;
 }
 
 .social_icons_wrapper {
