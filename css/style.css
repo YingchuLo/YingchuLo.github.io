@@ -63,8 +63,7 @@ h2 {
     margin:0;
     border:0;
     padding:0;
-    display:inline;
-    font-size:70%;
+    line-height:200%;
     text-align:center;
 }
 
