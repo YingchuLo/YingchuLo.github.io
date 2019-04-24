@@ -28,7 +28,7 @@ p {
     border:0;
     padding:0;
     line-height:200%;
-    text-align:center;
+    text-align:justify;
 }
 
 .content { 
@@ -133,6 +133,13 @@ h2 {
 }
 .color-me{
     color:black;
+}
+p2 {
+    margin:0;
+    border:0;
+    padding:0;
+    line-height:200%;
+    text-align:justify;
 }
 /* ------------------------------------------------------------------------------------- */
 /* resume page */
